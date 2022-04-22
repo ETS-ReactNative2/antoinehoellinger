@@ -14,21 +14,12 @@ function Startup() {
 
     const { containerStyle } = styles;
 
-<<<<<<< HEAD
-        return (
-            <>
-                <h1>{t("Mon Experience en Start-up")}</h1>
-                <h2>{t("Stage dans un réseau de franchises national pour améliorer la visibiltié digitale")}</h2>
-               <div className="container">
-                    <div className="descriptionLeft imageExp" id="homepartner">
-=======
     return (
         <>
             <h1>{t("Mon Experience en Start-up")}</h1>
             <h2>{t("Stage dans un réseau de franchises national pour améliorer la visibiltié digitale")}</h2>
             <div className="container">
                 <div className="descriptionLeft imageExp" id="homepartner">
->>>>>>> master
                 </div>
                 <div className="descriptionRight">
                     <p>{t("Mes missions étaient")} :</p>

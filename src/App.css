@@ -211,15 +211,6 @@ a, button {
 
 
     .Exit {
-<<<<<<< HEAD
-        margin-left:90%;
-    }
-
-    .container {
-        flex-wrap:wrap;
-        text-align:center;
-        padding:100px 0px;
-=======
         margin-left: 90%;
     }
 
@@ -227,7 +218,6 @@ a, button {
         flex-wrap: wrap;
         text-align: center;
         padding: 100px 0px;
->>>>>>> master
     }
 
     .descriptionRightTwo a, .descriptionRight a, .imageExp {
@@ -273,27 +263,16 @@ a, button {
     }
 
     .descriptionLeftTwo {
-<<<<<<< HEAD
-        min-width:300px;
-    }
-
-    .hero h1  {
-=======
         min-width: 300px;
     }
 
     .hero h1 {
->>>>>>> master
         font-size: 540%;
     }
 
     .heroSubtitle, .dropping-texts {
         font-size: 25px;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> master
 }
 
 @media only screen and (max-width: 576px ) {
@@ -303,11 +282,7 @@ a, button {
 
     footer ul {
         gap: 20px;
-<<<<<<< HEAD
-        font-size:12px;
-=======
         font-size: 12px;
->>>>>>> master
     }
 
     .detailsOn {
@@ -345,19 +320,6 @@ a, button {
 
     .hero h1 {
         font-size: 330%;
-<<<<<<< HEAD
-    }
-
-    .heroSubtitle, .dropping-texts {
-        font-size: 17px;
-    }
-
-    .pragmantic_button {
-        display:none;
-    }
-
-=======
->>>>>>> master
     }
 
     .heroSubtitle, .dropping-texts {
