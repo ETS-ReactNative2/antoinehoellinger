@@ -8,7 +8,7 @@ function Freelance(props) {
 
 
     return (
-        <>
+        <div className="Content">
             <h1>{t("Mon Experience en Start-up")}</h1>
             <h2>{t("Stage dans un réseau de franchises national pour améliorer la visibiltié digitale")}</h2>
             <div className="container">
@@ -73,7 +73,7 @@ function Freelance(props) {
                 </div>
                 <div className="descriptionLeftTwo imageExp" id="dreamforce"></div>
             </div>
-        </>
+        </div>
     )
 }
 

@@ -522,11 +522,11 @@
 }
 
 .detailsOn h1 {
-    font-size: 70px !important;
+    font-size: 70px;
 }
 
 .detailsOn h2 {
-    font-size: 30px !important;
+    font-size: 30px;
 }
 
 .descriptionRight p {

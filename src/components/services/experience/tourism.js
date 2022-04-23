@@ -15,7 +15,7 @@ function Tourism(props) {
     const { containerStyle } = styles;
 
     return (
-        <>
+        <div className="Content">
             <h1>{t("Mon Experience en Start-up")}</h1>
             <h2>{t("Stage dans un réseau de franchises national pour améliorer la visibiltié digitale")}</h2>
             <div className="container">
@@ -35,7 +35,7 @@ function Tourism(props) {
                     <a className="button" href='https://www.disneylandparis.com'>{t("En apprendre plus sur l'entreprise")}</a>
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 
