@@ -337,6 +337,10 @@ a, button {
         padding:10px 70px;
     }
 
+    .overlay {
+        top:110px;
+    }
+
     .form input {
         font-size:15px;
     }
