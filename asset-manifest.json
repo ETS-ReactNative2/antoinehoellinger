@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactme/static/css/main.2f1a57bb.css",
+    "main.css": "/reactme/static/css/main.bb5612b9.css",
     "main.js": "/reactme/static/js/main.fda86403.js",
     "static/media/web.png": "/reactme/static/media/web.c8eca491d9ea2d2f01b1.png",
     "static/media/antoine.jpg": "/reactme/static/media/antoine.2c18771e549cdb155229.jpg",
@@ -17,11 +17,11 @@
     "static/media/pragmantic.png": "/reactme/static/media/pragmantic.df89f411e8f57fe64070.png",
     "static/media/IcoLogo.svg": "/reactme/static/media/IcoLogo.5754b425b266390d3597542a5386e797.svg",
     "index.html": "/reactme/index.html",
-    "main.2f1a57bb.css.map": "/reactme/static/css/main.2f1a57bb.css.map",
+    "main.bb5612b9.css.map": "/reactme/static/css/main.bb5612b9.css.map",
     "main.fda86403.js.map": "/reactme/static/js/main.fda86403.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f1a57bb.css",
+    "static/css/main.bb5612b9.css",
     "static/js/main.fda86403.js"
   ]
 }
